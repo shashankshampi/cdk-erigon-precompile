@@ -1,0 +1,24 @@
+{
+  "stage1": {
+    "block": 12345,
+    "txHash": null,
+    "receiver": "0x02",
+    "output": "a948904f2f0f479b8f8197694b30184b0d2e42fc",
+    "verdict": "pass"
+  },
+  "stage2": {
+    "block": 12346,
+    "txHash": "0xabc123...",
+    "receiver": "0xDeployedAddress",
+    "codeCheck": true,
+    "verdict": "pass"
+  },
+  "stage3": {
+    "block": 12347,
+    "txHash": null,
+    "receiver": "0xDeployedAddress",
+    "output": "a948904f2f0f479b8f8197694b30184b0d2e42fc",
+    "expected": "a948904f2f0f479b8f8197694b30184b0d2e42fc",
+    "verdict": "pass"
+  }
+}

@@ -1,0 +1,1 @@
+[{"inputs":[{"internalType":"bytes","name":"input","type":"bytes"}],"name":"sha256Hash","outputs":[{"internalType":"bytes32","name":"result","type":"bytes32"}],"stateMutability":"view","type":"function"}]
