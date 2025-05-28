@@ -1,0 +1,12 @@
+{
+  "stage": "Stage 1 - Raw Precompile Invocation",
+  "success": true,
+  "precompile": "0x02",
+  "input": "hello world",
+  "expected_hash": "b94d27b9934d3e08a52e52d7da7dabfac484efe37a5380ee9088f7ace2efcde9",
+  "returned_hash": "b94d27b9934d3e08a52e52d7da7dabfac484efe37a5380ee9088f7ace2efcde9",
+  "match": true,
+  "timestamp": "2025-05-28T14:56:02Z",
+  "network": "cdk-erigon",
+  "rpc_url": "http://127.0.0.1:55180"
+}
